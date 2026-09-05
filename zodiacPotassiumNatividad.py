@@ -10,18 +10,18 @@ if birth_year < 1900:
 
 # This list is ordered based on the 12-year Chinese Zodiac cycle, starting with 1900 = Rat
 zodiac_signs = [
-    "Rat",
-    "Ox",
-    "Tiger",
-    "Rabbit",
-    "Dragon",
-    "Snake",
-    "Horse",
-    "Goat",
-    "Monkey",
-    "Rooster",
-    "Dog",
-    "Pig"
+    "Rat (鼠 / Shǔ)",
+    "Ox (牛 / Niú)",
+    "Tiger (虎 / Hǔ)",
+    "Rabbit (兔 / Tù)",
+    "Dragon (龙 / Lóng)",
+    "Snake (蛇 / Shé)",
+    "Horse (马 / Mǎ)",
+    "Goat (羊 / Yáng)",
+    "Monkey (猴 / Hóu)",
+    "Rooster (鸡 / Jī)",
+    "Dog (狗 / Gǒu)",
+    "Pig (猪 / Zhū)"
 ]
 
 # Use % 12 to repeat the cycle every 12 years.
