@@ -4,5 +4,5 @@
 Chinese Zodiac Signs
 
 ### Files
-* [Zodiac Python Code] (zodiacPotassiumNatividad.py)
-* [Activity Documentation] (zodiacPotassiumNatividad.md)
+* [Zodiac Python Code](zodiacPotassiumNatividad.py)
+* [Activity Documentation](zodiacPotassiumNatividad.md)
