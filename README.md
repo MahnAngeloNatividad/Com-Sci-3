@@ -5,4 +5,4 @@ Chinese Zodiac Signs
 
 ### Files
 - [Chinese Zodiac Code] (zodiacPotassiumNatividad.py)
-- [Activity Documentation] (zodiacPotassiumNatividad.md)
+zodiacPotassiumNatividad.md
